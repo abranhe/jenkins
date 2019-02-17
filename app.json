@@ -2,7 +2,7 @@
   "name": "Jenkins",
   "description": "Deploy Jenkins on Heroku",
   "repository": "https://github.com/abranhe/jenkins",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/226px-Jenkins_logo.svg.png",
+  "logo": "https://cdn.abranhe.com/projects/jenkins/jenkins.png",
   "keywords": [
     "java",
     "jenkins"
